@@ -3,7 +3,7 @@ This is a demo for the Git and GitHub class.
 
 
 # Teacher
-   Prajakta 
+   Prajakta Ghorpade  
 
 # student 
-  Pravin
+  Pravin Ghorpade
